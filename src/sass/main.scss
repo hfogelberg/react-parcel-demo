@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #ecf0f1;
+  color: #d35400;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.7rem;
+  padding: 3rem;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 6rem;
+}
+
